@@ -177,7 +177,7 @@ class DPTAirFlow(DPT2ByteFloat):
 
     dpt_main_number = 9
     dpt_sub_number = 9
-    value_type = "m³/h"
+    value_type = "air_flow"
     unit = "m³/h"
 
 
